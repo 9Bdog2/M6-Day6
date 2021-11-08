@@ -1,0 +1,8 @@
+Mongo DB
+
+Client//Server
+
+Database -information that is organized so that it can be easily accessed, managed and updated
+
+DBMS -database management system 
+
