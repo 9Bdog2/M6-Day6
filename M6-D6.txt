@@ -6,3 +6,35 @@ Database -information that is organized so that it can be easily accessed, manag
 
 DBMS -database management system 
 
+Relational Databases
+
+Non-relational
+
+NoSQL Databases
+
+Flexible data structure 
+
+SQL vs NoSql 
+
+SQL aka Relational databases
+
+NoSQL aka Non Relational Databases
+
+All the informations are not stored in a tabular form 
+Flexible data structure 
+Can scale horizontally very easily 
+MongoDb is the most famous NoSQL DB 
+They are the Javascript of DBs
+
+Postgres
+Consistency
+Vertial scalability
+Performances 
+
+MongoDB is open-source, cross-platformm NoSQL document database written in C?? that provides high performace, high availability and high scalability 
+High Perfomace-fast read and writes
+High Availability- high availability of data withouth delay 
+High Scalability- distributes collection data across machines and eventually , consistent read scan 
+Flexibility- you can enforce any type of data in MongoDB
+
+
